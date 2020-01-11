@@ -1,4 +1,4 @@
-# amkorpwa2
+# pwa
 
 ## Project setup
 ```
